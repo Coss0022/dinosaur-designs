@@ -11,7 +11,6 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: "Patua One", cursive;
 }
 
 figcaption {
@@ -41,4 +40,8 @@ nav a:hover {
 
 .intro {
   font-size: 1rem;
+}
+
+h2, nav a {
+  font-family: "Patua One", cursive;
 }
